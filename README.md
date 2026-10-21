@@ -1,0 +1,2 @@
+# StudyMaxSmart
+Learning app
